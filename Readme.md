@@ -1,18 +1,12 @@
-# CHENH4X SA-MP Launcher
+# Arizona RP [SA-MP]
 
-![PicsArt_04-24-06 44 38](https://raw.githubusercontent.com/chenschmidt/Arizona-Mobile/main/IMG_20220924_062035.png)
+![Arizona RP [SA-MP]](https://raw.githubusercontent.com/chenschmidt/Arizona-Mobile/main/IMG_20220924_062035.png)
 
-- Download CHENH4X SA-MP Launcher on [Google Play Store](https://play.google.com/store/apps/details?id=com.chenh4x.launcher)
-
-Hi! I'm Chen Schmidt. On my YouTube Channel, you will find GAMEPLAYS, SCRIPTING, TUTORIALS and APK RELEASES contents. I love playing online games, writing codes, developing android projects and sharing my experiences with you. Subscribe to see more GAMEPLAYS, SCRIPTING, TUTORIALS and APK RELEASES on your feed!
-
-- [Subscribe](https://www.youtube.com/c/ChenDeveloper) on my YouTube Channel!
-
-- [Join](https://www.youtube.com/channel/UCzikarATpDgTHgSY-JwbrRw/join) on my YouTube community to support my works!
+- Download Arizona RP [SA-MP] on [Google Play Store](https://play.google.com/store/apps/details?id=ru.arizonarp.samp)
 
 --------------------------------------------------------------------------------------------------------------------
-CHENH4X SA-MP Launcher :ghost:
-Current Version: V11.5
+Arizona RP [SA-MP] :ghost:
+Current Version: Latest Build
 --------------------------------------------------------------------------------------------------------------------
 
 - Download [Arizona.zip](https://github.com/chenschmidt/SAMP-MOBILE/releases/download/SAMP-UNIVERSAL-APK/ARIZONA.zip)
